@@ -1,0 +1,11 @@
+:root {
+  --clear: #a4cac9;
+  --background: #21403f;
+  --dark: #344040;
+  --turquoise: #61c0bf;
+  --turquoise2: #488c8b;
+  --white: #ffffff;
+  --black: #000;
+  --letter: "Inter", sans-serif;
+  font-size: 62.5%;
+}

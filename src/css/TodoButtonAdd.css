@@ -1,0 +1,21 @@
+.buttonaddtodo {
+  width: 6.4rem;
+  height: 6.4rem;
+  border-radius: 50%;
+  border: 0;
+  background-color: var(--turquoise2);
+  position: fixed;
+  right: 1.6rem;
+  bottom: 1.6rem;
+  box-shadow: 0 0.5rem 3.2rem var(--turquoise);
+  transition: all 0.4s;
+}
+
+.buttonaddtodo:hover {
+  transform: rotate(315deg);
+  transition: all 0.4s;
+}
+
+.buttonaddtodo__PlusIconButton {
+  width: 50%;
+}
